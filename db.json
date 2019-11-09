@@ -39,6 +39,22 @@
       "team_id": 3,
       "team_name": "equipe-c@aee",
       "area": 40
+    },
+    {
+      "date": "2019-10-27",
+      "product_id": 5,
+      "product_name": "TETRIS 8",
+      "team_id": 3,
+      "team_name": "equipe-a@aee",
+      "area": 23
+    },
+    {
+      "date": "2019-10-30",
+      "product_id": 6,
+      "product_name": "ROCKWOOL ROCKPRIM",
+      "team_id": 4,
+      "team_name": "equipe-b@aee",
+      "area": 653
     }
   ]
 }
